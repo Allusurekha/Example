@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <h1>Hello CodeSandbox</h1>
       <h2>React PractiseTests!</h2>
+      <p>This is a paragraph</p>
     </div>
   );
 }
